@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Who is he? A Legend or that one name you cannot forget?
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
