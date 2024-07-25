@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Who is he? A Legend or that one name you cannot forget?
+      text: he? A Who is he? A Legend or that one name you cannot forget?
       color: text-dark
       type: TitleBlock
     subtitle: A legend in the making
