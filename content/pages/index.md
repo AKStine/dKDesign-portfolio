@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/millazday1-272-dk-cropped.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
