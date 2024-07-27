@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Problems present opportunity for Growth
     items:
       - type: FeaturedItem
         title: Customized
