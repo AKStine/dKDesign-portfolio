@@ -237,7 +237,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Have fun while doing it with someone that gets you
+    subtitle: Have fun while doing it with someone that gets you!
     text: >
       Why should you work with me? Imagine having a partner who not only
       understands your brand's unique story but also knows how to tell it in the
