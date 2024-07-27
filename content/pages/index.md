@@ -147,7 +147,7 @@ sections:
     actions:
       - label: Book a Discovery Call
         altText: ''
-        url: /
+        url: 'tel:+254741433821'
         showIcon: false
         icon: arrowRight
         iconPosition: right
