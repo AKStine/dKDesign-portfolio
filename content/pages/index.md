@@ -178,8 +178,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/TheLucrebag_GLD-print-transparent.png
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
