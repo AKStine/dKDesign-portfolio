@@ -267,7 +267,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Why work with me?
       color: text-primary
       styles:
         self:
