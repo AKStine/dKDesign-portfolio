@@ -7,7 +7,7 @@ sections:
       text: Book a discovery call with me and
       color: text-dark
       type: TitleBlock
-    subtitle: A legend in the making
+    subtitle: Let's achieve your Desired Future State
     text: >
       My journey in the world of design and branding has been fueled by a
       passion for creativity and innovation. I've had the pleasure of working
