@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Fueled by a passion for creativity and innovation
+      text: "Fueled by a great\_ passion for creativity and innovation"
       color: text-dark
       type: TitleBlock
     subtitle: Let's achieve your Desired Future State
