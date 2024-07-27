@@ -267,7 +267,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Why work with me?
+      label: Why you should work with me
       color: text-primary
       styles:
         self:
