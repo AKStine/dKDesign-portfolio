@@ -157,7 +157,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: BECOME exCEPTIONAL
+      label: To BECOME exCEPTIONAL
       color: text-primary
       styles:
         self:
