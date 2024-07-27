@@ -6,7 +6,7 @@ sections:
     title:
       text: >-
         Book a discovery call with me and let's start building your brand's
-        future
+        future.
       color: text-dark
       type: TitleBlock
     subtitle: A legend in the making
