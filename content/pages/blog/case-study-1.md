@@ -1,5 +1,5 @@
 ---
-title: Toyota Logo and Applications
+title: Toyota Logo Design and Applications
 slug: case-study-1
 date: '2024-06-07'
 excerpt: >-
