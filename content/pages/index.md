@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: A legend in the making
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      My journey in the world of design and branding has been fueled by a
+      passion for creativity and innovation. I've had the pleasure of working
+      with diverse clients, helping them transform their visions into reality.
+      From the first brainstorming session to the final product, I guide my
+      clients every step of the way, ensuring each milestone is celebrated and
+      every goal is achieved.
     actions:
       - label: Get started
         altText: ''
