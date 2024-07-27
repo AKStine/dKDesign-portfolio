@@ -146,7 +146,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Book a Discovery Call
-        altText: ''
+        altText: Call me
         url: 'tel:+254741433821'
         showIcon: false
         icon: arrowRight
