@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Book a discovery call with me and
+      text: Fueled by a passion for creativity and innovation
       color: text-dark
       type: TitleBlock
     subtitle: Let's achieve your Desired Future State
