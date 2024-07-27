@@ -238,11 +238,25 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Why should you work with me? Imagine having a partner who not only
+      understands your brand's unique story but also knows how to tell it in the
+      most compelling way. My approach combines creativity with strategy,
+      ensuring every project is tailored to fit your specific needs.
+
+
+      With years of experience in brand strategy, I've learned the art of
+      connecting with audiences on a deep level. I listen closely to your vision
+      and use my skills to transform it into a narrative that captures attention
+      and drives engagement. My focus is on creating strategies that don't just
+      look good but work effectively to elevate your brand's presence.
+
+
+      Working with me means embarking on a collaborative journey where your
+      success is the ultimate goal. I bring a passion for innovation and a
+      dedication to excellence, ensuring that every step of the process is
+      smooth and rewarding. Let's work together to turn your brand's potential
+      into reality!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
