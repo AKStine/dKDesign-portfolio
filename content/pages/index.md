@@ -17,8 +17,8 @@ sections:
       every goal is achieved.
     actions:
       - label: Book a Call
-        altText: ''
-        url: /
+        altText: Send me an email
+        url: 'mailto:dkdesign254@gmail.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -146,8 +146,8 @@ sections:
         type: FeaturedItem
     actions:
       - label: Book a Discovery Call
-        altText: ''
-        url: /
+        altText: Call me
+        url: 'tel:+254741433821'
         showIcon: false
         icon: arrowRight
         iconPosition: right

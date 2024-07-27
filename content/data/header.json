@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Brand Strategy",
+                    "label": "Passion Projects",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -51,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Graphic Design",
+                    "label": "Profession",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",

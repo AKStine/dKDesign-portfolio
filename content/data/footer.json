@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Whatever you do, BECOME exceptional.\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "©DK. Design. The Lucrebag | 2024\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
