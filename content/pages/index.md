@@ -18,7 +18,7 @@ sections:
       clients every step of the way, ensuring each milestone is celebrated and
       every goal is achieved.
     actions:
-      - label: Get started
+      - label: Book a Call
         altText: ''
         url: /
         showIcon: false
