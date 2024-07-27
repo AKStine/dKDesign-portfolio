@@ -124,10 +124,11 @@ sections:
         type: FeaturedItem
       - title: Collaborative
         subtitle: Partnership
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Working with me means embarking on a journey where your success is the
+          destination. I prioritize clear communication and collaboration,
+          ensuring you feel supported and informed every step of the way.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
