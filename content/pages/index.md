@@ -17,7 +17,7 @@ sections:
       every goal is achieved.
     actions:
       - label: Book a Call
-        altText: ''
+        altText: Send me an email
         url: 'mailto:dkdesign254@gmail.com'
         showIcon: false
         icon: arrowRight
