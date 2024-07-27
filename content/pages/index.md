@@ -69,10 +69,11 @@ sections:
       - type: FeaturedItem
         title: Customized
         subtitle: Strategies
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Every brand is unique, and I thrive on crafting tailored solutions
+          that align perfectly with your goals. By understanding your vision and
+          audience, I create strategies that resonate and drive results.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
