@@ -1,5 +1,5 @@
 ---
-title: Graduate Nurse CV
+title: Graduate Nurse CV Design
 slug: case-study-2
 date: '2024-07-20'
 excerpt: >-
