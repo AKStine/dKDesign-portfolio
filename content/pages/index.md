@@ -98,10 +98,11 @@ sections:
               borderRadius: x-large
       - title: Creative
         subtitle: Excellence
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          With a knack for design and innovation, I bring your ideas to life in
+          ways that captivate and communicate. My work combines aesthetic appeal
+          with strategic messaging to ensure your brand stands out.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
