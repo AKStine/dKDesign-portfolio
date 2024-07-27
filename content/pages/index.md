@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'A Legend in the making, or that one name you cannot forget?'
+      text: >-
+        Book a discovery call with me today, and let's start building your
+        brand's future
       color: text-dark
       type: TitleBlock
     subtitle: A legend in the making
