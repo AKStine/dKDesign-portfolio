@@ -4,16 +4,19 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'A Legend in the making, or that one name you cannot forget?'
+      text: "Fueled by a great\_ passion for creativity and innovation."
       color: text-dark
       type: TitleBlock
-    subtitle: A legend in the making
+    subtitle: Let's achieve your Desired Future State
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      My journey in the world of design and branding has been fueled by a
+      passion for creativity and innovation. I've had the pleasure of working
+      with diverse clients, helping them transform their visions into reality.
+      From the first brainstorming session to the final product, I guide my
+      clients every step of the way, ensuring each milestone is celebrated and
+      every goal is achieved.
     actions:
-      - label: Get started
+      - label: Book a Call
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See Client Journey
         altText: ''
         url: /
         showIcon: true
@@ -32,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/millazday1-272-dk-cropped.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -59,15 +62,16 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Problems present opportunity for Growth
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Customized
+        subtitle: Strategies
+        text: >
+
+          Every brand is unique, and I thrive on crafting tailored solutions
+          that align perfectly with your goals. By understanding your vision and
+          audience, I create strategies that resonate and drive results.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +94,13 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Creative
+        subtitle: Excellence
+        text: >
+
+          With a knack for design and innovation, I bring your ideas to life in
+          ways that captivate and communicate. My work combines aesthetic appeal
+          with strategic messaging to ensure your brand stands out.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +120,13 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Collaborative
+        subtitle: Partnership
+        text: >
+
+          Working with me means embarking on a journey where your success is the
+          destination. I prioritize clear communication and collaboration,
+          ensuring you feel supported and informed every step of the way.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,7 +145,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Book a Discovery Call
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +155,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: To BECOME exCEPTIONAL
       color: text-primary
       styles:
         self:
@@ -168,19 +174,15 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Award winning enterprises trust me
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
@@ -235,12 +237,26 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Have fun while doing it with someone that gets you!
+    text: >
+      Why should you work with me? Imagine having a partner who not only
+      understands your brand's unique story but also knows how to tell it in the
+      most compelling way. My approach combines creativity with strategy,
+      ensuring every project is tailored to fit your specific needs.
+
+
+      With years of experience in brand strategy, I've learned the art of
+      connecting with audiences on a deep level. I listen closely to your vision
+      and use my skills to transform it into a narrative that captures attention
+      and drives engagement. My focus is on creating strategies that don't just
+      look good but work effectively to elevate your brand's presence.
+
+
+      Working with me means embarking on a collaborative journey where your
+      success is the ultimate goal. I bring a passion for innovation and a
+      dedication to excellence, ensuring that every step of the process is
+      smooth and rewarding. Let's work together to turn your brand's potential
+      into reality!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -262,7 +278,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Why you should work with me
       color: text-primary
       styles:
         self:
