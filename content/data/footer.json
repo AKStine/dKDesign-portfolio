@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "```\n© DK. Design. The Lucrebag | 2024\n```\n\n",
+    "copyrightText": "\\<div style=\"text-align: left\">\\`\\`\\`\n©DK. Design. The Lucrebag | 2024\n\n```</div>\n```\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
