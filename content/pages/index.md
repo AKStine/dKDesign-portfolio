@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Book a Call
         altText: ''
-        url: /
+        url: 'mailto:dkdesign254@gmail.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
